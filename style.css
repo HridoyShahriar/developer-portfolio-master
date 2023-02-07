@@ -63,3 +63,7 @@ p {
 .half-width1 img {
     width: 100%;
 }
+
+.exp {
+    padding-left: 35px;
+}
