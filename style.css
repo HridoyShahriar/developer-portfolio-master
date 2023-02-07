@@ -11,6 +11,10 @@ h1 {
     font-size: 50px;
 }
 
+h2 {
+    font-size: 40px;
+}
+
 .orange-color {
     color: orange;
 }
@@ -66,4 +70,17 @@ p {
 
 .exp {
     padding-left: 35px;
+}
+
+.box-shadow {
+    width: 40%;
+    border-radius: 10px;
+    margin-left: 5%;
+    margin-right: 5%;
+    margin-bottom: 50px;
+    padding-top: 50px;
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-bottom: 70px;
+    box-shadow: 10px 10px 10px 10px gray;
 }
